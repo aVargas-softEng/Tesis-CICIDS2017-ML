@@ -1,0 +1,32 @@
+﻿Clase,Puerto_Destino,Cantidad_Filas
+BENIGN,53,876780
+BENIGN,443,470306
+BENIGN,80,218033
+BENIGN,123,21312
+BENIGN,22,6874
+Bot,8080,1248
+Bot,53730,1
+Bot,4089,1
+Bot,52901,1
+Bot,52907,1
+DDoS,80,128013
+DDoS,64869,1
+DDoS,64873,1
+DDoS,27636,1
+DoS GoldenEye,80,10286
+DoS Hulk,80,172849
+DoS Slowhttptest,80,5228
+DoS slowloris,80,5385
+FTP-Patator,21,5932
+FTP-Patator,80,1
+Heartbleed,444,11
+Infiltration,444,36
+PortScan,80,372
+PortScan,21,243
+PortScan,22,243
+PortScan,139,196
+PortScan,445,179
+SSH-Patator,22,3219
+Web Attack - Brute Force,80,1470
+Web Attack - Sql Injection,80,21
+Web Attack - XSS,80,652

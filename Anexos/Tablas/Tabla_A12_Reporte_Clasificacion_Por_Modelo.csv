@@ -1,0 +1,31 @@
+﻿Modelo,Clase_o_Metrica,precision,recall,f1-score,support
+RandomForest,Benigno,0.999,0.999,0.999,419269
+RandomForest,Bot,0.908,0.787,0.843,390
+RandomForest,Brute Force,1.000,0.999,1.000,1830
+RandomForest,DDoS,1.000,1.000,1.000,25603
+RandomForest,DoS,0.998,0.998,0.998,38750
+RandomForest,PortScan,0.989,0.989,0.989,18164
+RandomForest,Web Attack,0.988,0.974,0.981,429
+RandomForest,accuracy,,,0.999,504435
+RandomForest,macro avg,0.983,0.964,0.973,504435
+RandomForest,weighted avg,0.999,0.999,0.999,504435
+XGBoost,Benigno,1.000,0.999,0.999,419269
+XGBoost,Bot,0.918,0.749,0.825,390
+XGBoost,Brute Force,1.000,1.000,1.000,1830
+XGBoost,DDoS,1.000,1.000,1.000,25603
+XGBoost,DoS,0.998,1.000,0.999,38750
+XGBoost,PortScan,0.989,0.999,0.994,18164
+XGBoost,Web Attack,0.975,0.986,0.980,429
+XGBoost,accuracy,,,0.999,504435
+XGBoost,macro avg,0.983,0.962,0.971,504435
+XGBoost,weighted avg,0.999,0.999,0.999,504435
+CatBoost,Benigno,1.000,0.999,0.999,419269
+CatBoost,Bot,0.908,0.733,0.811,390
+CatBoost,Brute Force,1.000,0.999,1.000,1830
+CatBoost,DDoS,1.000,1.000,1.000,25603
+CatBoost,DoS,0.997,0.999,0.998,38750
+CatBoost,PortScan,0.988,0.999,0.994,18164
+CatBoost,Web Attack,0.977,0.979,0.978,429
+CatBoost,accuracy,,,0.999,504435
+CatBoost,macro avg,0.981,0.958,0.969,504435
+CatBoost,weighted avg,0.999,0.999,0.999,504435
