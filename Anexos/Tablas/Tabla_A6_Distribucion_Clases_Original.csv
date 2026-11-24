@@ -1,0 +1,16 @@
+﻿Clase,Conteo,Porcentaje (%)
+BENIGN,"2,096,484",83.12
+DoS Hulk,"172,849",6.85
+DDoS,"128,016",5.08
+PortScan,"90,819",3.60
+DoS GoldenEye,"10,286",0.41
+FTP-Patator,"5,933",0.24
+DoS slowloris,"5,385",0.21
+DoS Slowhttptest,"5,228",0.21
+SSH-Patator,"3,219",0.13
+Bot,"1,953",0.08
+Web Attack - Brute Force,"1,470",0.06
+Web Attack - XSS,652,0.03
+Infiltration,36,0.00
+Web Attack - Sql Injection,21,0.00
+Heartbleed,11,0.00

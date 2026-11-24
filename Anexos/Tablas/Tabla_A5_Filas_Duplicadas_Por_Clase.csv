@@ -1,0 +1,16 @@
+﻿Clase,Cantidad de filas por clase,Cantidad de filas duplicadas por clase
+BENIGN,"2,273,097","176,613"
+DoS Hulk,"231,073","58,224"
+PortScan,"158,930","68,111"
+DDoS,"128,027",11
+DoS GoldenEye,"10,293",7
+FTP-Patator,"7,938","2,005"
+SSH-Patator,"5,897","2,678"
+DoS slowloris,"5,796",411
+DoS Slowhttptest,"5,499",271
+Bot,"1,966",13
+Web Attack - Brute Force,"1,507",37
+Web Attack - XSS,652,0
+Infiltration,36,0
+Web Attack - Sql Injection,21,0
+Heartbleed,11,0
